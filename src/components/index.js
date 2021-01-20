@@ -7,25 +7,25 @@ import ColumnsComponent from './columns/Columns';
 import ContainerComponent from './container/Container';
 import ContentComponent from './content/Content';
 import CurrencyComponent from './currency/Currency';
-import DataGridComponent from './datagrid/DataGrid';
+//import DataGridComponent from './datagrid/DataGrid';
 import DataMapComponent from './datamap/DataMap';
 import DateTimeComponent from './datetime/DateTime';
-import DayComponent from './day/Day';
-import EditGridComponent from './editgrid/EditGrid';
-import EditTableComponent from './edittable/EditTable';
+//import DayComponent from './day/Day';
+//import EditGridComponent from './editgrid/EditGrid';
+//import EditTableComponent from './edittable/EditTable';
 import EmailComponent from './email/Email';
 import FieldsetComponent from './fieldset/Fieldset';
 import FileComponent from './file/File';
 import FormComponent from './form/Form';
 import HTMLComponent from './html/HTML';
 import HiddenComponent from './hidden/Hidden';
-import LocationComponent from './location/Location';
+//import LocationComponent from './location/Location';
 import ModalEdit from './modaledit/ModalEdit';
 import NestedComponent from './nested/NestedComponent';
 import NumberComponent from './number/Number';
 import PanelComponent from './panel/Panel';
 import PasswordComponent from './password/Password';
-import PhoneNumberComponent from './phonenumber/PhoneNumber';
+//import PhoneNumberComponent from './phonenumber/PhoneNumber';
 import RadioComponent from './radio/Radio';
 import ReCaptchaComponent from './recaptcha/ReCaptcha';
 import ResourceComponent from './resource/Resource';
@@ -54,25 +54,25 @@ export default {
   container: ContainerComponent,
   content: ContentComponent,
   currency: CurrencyComponent,
-  datagrid: DataGridComponent,
+  //datagrid: DataGridComponent,
   datamap: DataMapComponent,
   datetime: DateTimeComponent,
-  day: DayComponent,
-  editgrid: EditGridComponent,
-  edittable: EditTableComponent,
+  //day: DayComponent,
+  //editgrid: EditGridComponent,
+  //edittable: EditTableComponent,
   email: EmailComponent,
   fieldset: FieldsetComponent,
   file: FileComponent,
   form: FormComponent,
   hidden: HiddenComponent,
   htmlelement: HTMLComponent,
-  location: LocationComponent,
+  //location: LocationComponent,
   modaledit: ModalEdit,
   nested: NestedComponent,
   number: NumberComponent,
   panel: PanelComponent,
   password: PasswordComponent,
-  phoneNumber: PhoneNumberComponent,
+  //phoneNumber: PhoneNumberComponent,
   radio: RadioComponent,
   recaptcha: ReCaptchaComponent,
   resource: ResourceComponent,
